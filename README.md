@@ -8,7 +8,9 @@ Esse código foi feito em apenas um arquivo com objetivo de ajudar pessoas com n
 
 ## Configuração
 
-Esse projeto não requer nenhuma instalação, apenas que seja inserido em um diretório. Exemplo: /whatsapp ou que seu arquivo seja renomeado Exemplo: whatsapp.html 
+Esse projeto não requer nenhuma instalação, apenas que seja inserido no diretório raiz do seu site.
+
+Caso queira que esse código fiquem em um diretório diferente, crie o diretório (Exemplo: /whatsapp) e renomeie o arquivo para index.html
 
 Para que esse arquivo funcione é necessário que seja feita a modificação do itens:
 
